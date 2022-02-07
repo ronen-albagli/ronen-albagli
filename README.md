@@ -36,7 +36,7 @@
 
 
 
-💼 Currently work as a software engineer at [Lusha.com](https://www.lusha.com/) Data Group
+💼 Currently work as a software engineer at [Lusha.com](https://www.lusha.com/) Account Group
 
 😎 Working on some secret project
 
