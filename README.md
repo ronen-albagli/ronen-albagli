@@ -64,17 +64,17 @@
 <p>⭐  <b>Golang</b></p>
 
 ## Skills
-💥<b>Javascript
-💥<b>Node.js
-💥<b>Python
-💥<b>TypeScript
-💥<b>SQL
-💥noSql
-💥Golang
-💥RxJs
-💥Elasticsearch
-💥C#
-💥Docker</b>
+<p><b>💥Javascript</b></p>
+<p><b>💥Node.js</b></p>
+<p><b>💥Python</b></p>
+<p><b>💥TypeScript</b></p>
+<p><b>💥SQL</b></p>
+<p><b>💥noSql</b></p>
+<p><b>💥Golang</b></p>
+<p><b>💥RxJs</b></p>
+<p><b>💥Elasticsearch</b></p>
+<p><b>💥C#</b></p>
+<p><b>💥Docker</b></p>
 
 ###### Reach me at: Ronen.albagli@gmail.com
 
