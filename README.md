@@ -41,18 +41,23 @@
 😎 Working on some secret project
 
 ## Intersting in:
+<p><b>❤️  To play with Javascript.</b></p>
+<p><b>❤️ Play with SQL.</b></p>
+<p><b>❤️ Play with IoT.</b></p>
+<p><b>❤️ Manipulate data</b></p>
+
 <table style="background-color:transparent">
 <tr style="border:none; height:20px; background-color:transparent; align-items:center" ><td style="border:none; height:20px; background-color:transparent; align-items:center">
-❤️  To play with Javascript.
+
 </td></tr>
 <tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
-❤️ Manipulate data
+
 </td></tr>
 <tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
-❤️ Play with SQL.
+
 </td></tr>
 <tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
-❤️ Play with IoT.
+
 </td></tr>
 
 
