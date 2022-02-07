@@ -46,24 +46,6 @@
 <p><b>❤️ Play with IoT.</b></p>
 <p><b>❤️ Manipulate data</b></p>
 
-<table style="background-color:transparent">
-<tr style="border:none; height:20px; background-color:transparent; align-items:center" ><td style="border:none; height:20px; background-color:transparent; align-items:center">
-
-</td></tr>
-<tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
-
-</td></tr>
-<tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
-
-</td></tr>
-<tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
-
-</td></tr>
-
-
-
-
-</table>
 
 ## Currently Learning:
 <p>⭐  <b>Golang</b></p>
