@@ -30,7 +30,6 @@
 <td>
 <a><img style="height:100px; width:100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwpQrlj19mR6qskj3_20pl8dlWmXisrqNuY6P7emfqGfDvJmErbViGx2xsGjvbL4L3Vmk&usqp=CAU" /></a></td>
 <td><a><img style="height:100px; width:100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIlX4Q-fVDfCIQMsckDGsymJYnnOT7ySI0cMkYyCoLDEr6uBCuGwEIKU6QSD2RsTrgDwU&usqp=CAU" /></a></td>
-
 </tr>
 </table>
 </div>
@@ -42,10 +41,24 @@
 😎 Working on some secret project
 
 ## Intersting in:
-<p>❤️  To play with Javascript.
-❤️ Manipulate data.
+<table style="background-color:transparent">
+<tr style="border:none; height:20px; background-color:transparent; align-items:center" ><td style="border:none; height:20px; background-color:transparent; align-items:center">
+❤️  To play with Javascript.
+</td></tr>
+<tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
+❤️ Manipulate data
+</td></tr>
+<tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
 ❤️ Play with SQL.
-❤️ Play with IoT.</p>
+</td></tr>
+<tr style="border:none; height:20px; background-color:transparent; align-items:center"><td style="border:none; height:20px; background-color:transparent; align-items:center">
+❤️ Play with IoT.
+</td></tr>
+
+
+
+
+</table>
 
 ## Currently Learning:
 <p>⭐  <b>Golang</b></p>
