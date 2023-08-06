@@ -36,9 +36,11 @@
 
 
 
-💼 Currently work as a software engineer at [Lusha.com](https://www.lusha.com/) Account Group
+💼 Currently work as a senior backend enginner at [Trustmi.ai](https://trustmi.ai/)
 
 😎 Working on some secret project
+
+📖 Medium Page [link](https://medium.com/@ronen.albagli)
 
 ## Intersting in:
 <p><b>❤️  To play with Javascript.</b></p>
