@@ -58,11 +58,16 @@
 <p><b>💥SQL</b></p>
 <p><b>💥Javascript</b></p>
 <p><b>💥noSql</b></p>
-<p><b>💥Golang</b></p>
 <p><b>💥RxJs</b></p>
 <p><b>💥Elasticsearch</b></p>
 <p><b>💥C#</b></p>
 <p><b>💥Docker</b></p>
+
+
+## Cloud
+<p><b>💥AWS</b></p>
+<p><b>💥GCP</b></p>
+
 
 ###### Reach me at: Ronen.albagli@gmail.com
 
