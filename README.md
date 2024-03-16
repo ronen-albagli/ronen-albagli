@@ -43,21 +43,20 @@
 📖 Medium Page [link](https://medium.com/@ronen.albagli)
 
 ## Intersting in:
-<p><b>❤️  To play with Javascript.</b></p>
-<p><b>❤️ Play with SQL.</b></p>
+<p><b>❤️ To play with Javascript.</b></p>
+<p><b>❤️ Play with SQL/NoSql.</b></p>
 <p><b>❤️ Play with IoT.</b></p>
 <p><b>❤️ Manipulate data</b></p>
 
 
-## Currently Learning:
-<p>⭐  <b>Golang</b></p>
 
 ## Skills
-<p><b>💥Javascript</b></p>
+<p><b>💥Golang</b></p>
 <p><b>💥Node.js</b></p>
 <p><b>💥Python</b></p>
 <p><b>💥TypeScript</b></p>
 <p><b>💥SQL</b></p>
+<p><b>💥Javascript</b></p>
 <p><b>💥noSql</b></p>
 <p><b>💥Golang</b></p>
 <p><b>💥RxJs</b></p>
