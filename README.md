@@ -36,7 +36,7 @@
 
 
 
-💼 Currently work as a senior backend enginner at [Trustmi.ai](https://trustmi.ai/)
+💼 Currently work as a senior backend enginner
 
 😎 Working on some secret project
 
